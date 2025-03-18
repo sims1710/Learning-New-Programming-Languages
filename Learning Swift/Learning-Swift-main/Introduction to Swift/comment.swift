@@ -1,0 +1,2 @@
+// print statement 😄
+print("Codecademy")
